@@ -15,6 +15,11 @@
     "idf.toolsPath": "/home/zhuzhuzhu/.espressif",
     "idf.flashType": "UART",
     "files.associations": {
-        "cstdint": "c"
+        "cstdint": "c",
+        "string_view": "c",
+        "array": "c",
+        "string": "c",
+        "span": "c",
+        "compare": "cpp"
     }
 }
